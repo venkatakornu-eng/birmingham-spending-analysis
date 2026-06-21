@@ -32,7 +32,7 @@ This project analyses public spending data from Birmingham City Council using Mi
 - Exploratory Data Analysis (EDA)
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard1.png)
 
 ## 📁 Files
 - `Birmingham-spending-analysis.xlsx` – Full interactive dashboard
