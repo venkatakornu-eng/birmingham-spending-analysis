@@ -4,10 +4,10 @@ Excel Dashboard analysing Birmingham City Council spending patterns
 # Birmingham City Council Spending Analysis Dashboard
 
 ## 📊 Project Overview
-This project analyses public spending data from Birmingham City Council using Microsoft Excel. The goal was to explore spending patterns across directorates, suppliers, and time periods, and present insights through an interactive dashboard.
+This project analyses public spending data from Birmingham City Council using Microsoft Excel. The goal was to explore spending patterns across directorates, suppliers, and time periods, and present insights through an interactive dashboard. 
 
 ## 🔍 Key Features
-- Analysed 213,000+ financial transactions
+- Analysed 213,000+ financial transactions using tools
 - Built interactive Excel dashboard using:
   - Pivot Tables
   - Pivot Charts
