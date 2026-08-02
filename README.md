@@ -36,7 +36,7 @@ This project analyses public spending data from Birmingham City Council using Mi
 
 ## 📁 Files
 - `Birmingham-spending-analysis.xlsx` – Full interactive dashboard
-- `Dashboard.png` – Snapshot of dashboard
+- `Dashboard.png` – Snapshot of dashboard in image file
 
 ## 🚀 Outcome
 This project demonstrates skills in data analysis, dashboard design, and extracting business insights from real-world public datasets.
